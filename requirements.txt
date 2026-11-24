@@ -2,3 +2,4 @@ requests
 duckdb
 python-dotenv
 pytest
+psycopg[binary]>=3.2
